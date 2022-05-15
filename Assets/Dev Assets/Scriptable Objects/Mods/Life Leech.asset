@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6adc0c3d9029469d99b9c3d8397150d, type: 3}
+  m_Name: Life Leech
+  m_EditorClassIdentifier: 
+  name: Life Leech
+  description: Player's Spaceship can heal by 1% of its total health everytime enemies
+    get killed
+  modType: 14
+  damagePercentageIncrease: 0
+  attackCooldownPercentageDecrease: 0
+  criticalChancePercentageIncrease: 0
+  criticalDamagePercentageIncrease: 0
+  overheatDamagePercentageIncrease: 0
+  bulletsIncrease: 0
+  bulletSpeedPercentageIncrease: 0
+  singleStrikePercentageIncrease: 0
+  damagePercentageDoublePatternDecrease: 0
+  damagePercentageSplitterPatternDecrease: 0
+  damagePercentageXFactorDecrease: 0
+  damagePercentageGatlingPatternDecrease: 0
+  healthUpPercentageIncrease: 0
+  healthUpRecoverPercentageIncrease: 0
+  offerHealthRecoverPercentageIncrease: 0
+  lifeLeechPercentageIncrease: 0.01
+  protectShieldCooldown: 0
+  protectShieldDuration: 0
+  turretsAmountIncrease: 0
+  turretsHitPoint: 0
+  turretsRespawnDuration: 0
